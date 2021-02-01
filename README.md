@@ -1,0 +1,4 @@
+# ec700
+Slides to answer the following:
+
+*Apartheid because of or in spite of capitalism? The apartheid system in South Africa gave non-white workers restricted access to the labor market of the modern sector of the economy. According to the infamous pass laws, those working in the urban areas required a pass, which was revoked if their job was terminated, and they were required to return to close to subsistence living in one of the so- called bantustans. South African scholars have debated whether this system lowered profits (by restricting the supply of labor) or raised profits (by providing businesses with a favorable labor discipline environment). Use the labor discipline model (the no shirking condition, or the more general model in the text) to develop the latter argument. What additional information would you need to determine which position is more nearly correct?*
